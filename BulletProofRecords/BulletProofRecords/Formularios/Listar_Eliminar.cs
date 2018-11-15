@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BulletProofRecords
 {
-    public partial class Form1 : Form
+    public partial class Listar_Eliminar : Form
     {
-        public Form1()
+        public Listar_Eliminar()
         {
             InitializeComponent();
         }
